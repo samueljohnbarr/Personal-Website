@@ -1,0 +1,61 @@
+.hello {
+  color: #333;
+  font-size: 50px;
+  font-weight: normal;
+  padding-top: 100px;
+  padding-left: 85px;
+  line-height: 15px;
+}
+.about {
+  color: #ff6166;
+  font-size: 35px;
+  font-weight: normal;
+  padding-left: 90px;
+}
+
+.info p {  
+  color: #333;
+  font-size: 20px;
+  padding-right: 80px;
+  padding-left: 520px;
+  padding-bottom: 5px;
+  display: block;
+}
+
+.info img {
+  border-radius: 50%;
+  float: left;
+  margin-top: 30px;
+  margin-right:90px;
+  margin-left: 80px;
+}
+
+.server img {
+  border-radius: 50%;
+  float: right;
+  margin-top: 30px;
+  margin-right: 90px;
+  margin-left: 80px;
+}
+
+.server h1 {
+  color: #ff6166;
+  font-size: 35px;
+  font-weight: normal;
+  padding-top: 60px;
+  padding-left: 80px;
+}
+
+.server p {
+  color: #333;
+  font-size: 20px;
+  padding-right: 80px;
+  padding-left: 80px;
+  padding-bottom: 5px;
+  display: block;
+}
+
+.last {
+  padding-bottom: 50px;
+}
+

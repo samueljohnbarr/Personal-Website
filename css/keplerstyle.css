@@ -1,0 +1,14 @@
+#container h1 {
+  margin-left: 85px;
+  color: #ff6166;
+}
+
+#container video {
+  margin-left: 170px;
+}
+
+#container p {
+  text-align: center;
+  color: #333;
+  font-size:20px;
+}

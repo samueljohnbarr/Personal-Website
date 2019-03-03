@@ -1,0 +1,58 @@
+#pic {
+  float: left;
+}
+
+#pic h1 {
+  padding-left: 85px;
+  color: #ff6166
+}
+
+#pic img {
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  margin-left: 85px;
+  margin-right: 120px;
+  margin-bottom: 30px;
+}
+
+#info h2 {
+  padding-top: 120px;
+  color: #4f86f7;
+}
+
+#info p {
+  font-size: 20px;
+  color: #333;
+  padding-right: 85px;
+}
+
+#info h3 {
+  font-size: 20px;
+  color: #ff6166;
+}
+
+#info li {
+  font-size: 18px;
+  color: #333;
+  padding-bottom: 7px;
+}
+
+#info ul {
+  list-style: none; /* Remove default bullets */
+  padding-left: 20px;
+}
+
+#info ul li::before {
+  content: "\2022";
+  color: #4f86f7; /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block;
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: 1em; /* Also needed for space (tweak if needed) */
+}
+
+hr {
+  clear: left;
+}
+

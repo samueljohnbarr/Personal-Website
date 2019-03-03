@@ -1,0 +1,87 @@
+#container h1 {
+  padding-top: 30px;
+  padding-left: 85px;
+  color: #ff6166;
+}
+
+#container h2 {
+  padding-left: 85px;
+  color: #4f86f7;
+}
+
+#robot h2 {
+  padding-top: 40px;
+}
+
+#robot img {
+  float: left;
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  margin-left: 85px;
+  margin-right: 85px;
+  margin-bottom: 50px; 
+}
+
+#robot p {
+  padding-left: 85px;
+  padding-right: 85px;
+  color: #333;
+  font-size: 20px;
+}
+
+#robot hr {
+  clear: left;
+}
+
+#kepler img {
+  float: right;
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  margin-top: 30px;
+  margin-left: 85px;
+  margin-right: 85px;
+  margin-bottom: 50px;
+}
+
+#kepler h2 {
+  padding-top: 80px;
+}
+
+#kepler p {
+  padding-left: 85px;
+  padding-right: 85px;
+  color: #333;
+  font-size: 20px;
+}
+
+#kepler hr {
+  clear: right;
+}
+
+#orbis img {
+  float: left;
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  margin-top: 30px;
+  margin-left: 85px;
+  margin-right: 85px;
+  margin-bottom: 50px;
+}
+
+#orbis h2 {
+  padding-top: 80px;
+}
+
+#orbis p {
+  padding-left: 85px;
+  padding-right: 85px;
+  color: #333;
+  font-size: 20px;
+}
+
+#orbis hr {
+  clear: left;
+}

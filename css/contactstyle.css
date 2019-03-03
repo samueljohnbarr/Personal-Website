@@ -1,0 +1,59 @@
+.contact {
+  font-weight: none;
+  padding-left: 85px;
+  color: #ff6166;
+}
+.info {
+  float: left;
+}
+
+.info img {
+  margin-left: 80px;
+  margin-right: 200px;
+  height: 350px;
+  width: 350px;
+  border-radius: 50%;
+}
+
+.info p {
+  font-size: 20px;
+}
+
+#con {
+  margin-left: 90px;
+  color: #ff6166;
+}
+
+#form { 
+  padding-left: 100px;
+}
+
+#form h1 {
+  padding-top: 140px;
+  font-weight: none;
+  color: #4f86f7;
+}
+
+form {
+  margin-left: 85px;
+}
+
+input {
+  margin-bottom: 10px;
+  border-radius: 10%;
+  width: 400px;
+  height: 30px;
+  border: 1px solid #4f86f7;
+}
+
+textarea {
+  width: 400px;
+  height: 100px;
+  margin-bottom: 30px;
+  border-radius: 5%;
+  border: 1px solid #4f86f7;
+}
+
+hr {
+  clear: left;
+}
