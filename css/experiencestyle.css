@@ -15,6 +15,8 @@
 #skills h1 {
   padding-top: 30px;
   color: #ff6166;
+  font-weight: normal;
+  font-size: 35px;
 }
 
 #skills h2 {
@@ -39,6 +41,8 @@ li {
 }
 
 #exp h1 {
+  font-weight: normal;
+  font-size: 35px;
   margin-left: 85px;
   margin-top: 50px;
   color: #ff6166;

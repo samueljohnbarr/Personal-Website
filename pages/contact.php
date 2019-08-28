@@ -47,10 +47,19 @@ if($_POST["message"]) {
     <div class=container>
       <div class=info>
         <h1 class=contact>contact</h1>
-        <img src=../pics/home.jpg> 
-        <p><span id=con>phone:</span> (704)-929-2170</p>
-	<p><span id=con>email:</span> mail@samueljohnbarr.com
-	</p>      
+        <img id=home src=../pics/home.jpg> 
+	<p><img id=ico src=../pics/phone.png>
+          <span id=con> phone:</span> (704)-929-2170
+        </p>
+	<p><img id=ico src=../pics/mail.png>
+	  <span id=con> email:</span> mail@samueljohnbarr.com
+        </p>
+	<p><img id=ico src=../pics/github.png>
+	  <span id=con> github:</span> samueljohnbarr
+        </p>
+	<p><img id=ico src=../pics/linkedin.png>
+	  <span id=con> linkedin:</span> samuel-john-barr
+        </p>      
       </div>
       <div id=form>
 	<h1>email me</h1>

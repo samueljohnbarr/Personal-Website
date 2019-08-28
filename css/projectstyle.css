@@ -1,4 +1,6 @@
 #container h1 {
+  font-weight: normal;
+  font-size: 35px;
   padding-top: 30px;
   padding-left: 85px;
   color: #ff6166;
