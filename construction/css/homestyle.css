@@ -1,0 +1,171 @@
+html {
+  background-color:#1F2833;
+  font-family: 'Lato', sans-serif;
+}
+
+hr {
+  color: #66FCF1;
+  margin: 30px auto;
+  max-width: 1100px;
+}
+
+p {  
+  color: #C5C6C7;
+  font-size: 20px;
+  display: relative;
+}
+
+a {
+  text-decoration: none;
+  color: #66FCF1;
+}
+
+/* Top Nav */
+.nav {
+  width: 100vw;
+  text-align: center;
+  margin: 0;
+  overflow: hidden;
+}
+.nav h1 {
+  font-size: 6vw;
+  color: #66FCF1;
+  font-weight: normal;
+}
+.nav p {
+  font-size: 3vw;
+  color: #45A29E;
+}
+@media screen and (min-width: 1000px) {
+  .nav h1 {
+    font-size: 60px; 
+  }
+  .nav p {
+    font-size: 30px;
+  }
+}
+
+/** Image **/
+.grid_container {
+  width: 100vw;
+  max-width: 1100px;
+  padding-top: 3vh;
+  margin: 0 auto;
+  display: grid;
+  /*grid-auto-flow: column;*/
+  grid-template-columns: 600px 600px;
+}
+
+.grid_container h1 { 
+  font-size: 40px;
+  color: #66FCF1;
+  font-weight: normal;
+}
+
+.grid_container img {
+  display: block;	
+  margin: 0 auto;
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}
+
+.about_container {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.hello {
+  color: #66FCF1;
+  font-size: 60px;
+  font-weight: normal;
+  padding-top: 40px;
+  line-height: 15px;
+}
+
+.about {
+  color: #C5C6C7;
+  font-size: 40px;
+  font-weight: normal;
+  display: relative;
+}
+
+@media screen and (max-width: 1200px) {
+  .grid_container {
+    grid-template-columns: 100vw;
+  }
+  .hello {
+    padding-top: 0px;
+    padding-left: 30px;
+  }
+  .about {
+    padding-left: 40px;
+  }
+  p {
+    padding-left: 50px;
+    padding-right: 50px; 
+  }
+  .date {
+    padding-right: 50px;
+  }
+}
+
+.exp_container {
+  padding-left: 50px;
+}
+
+.exp_container h3 {
+  color: #66FCF1;
+}
+
+.date {
+  float: right;
+  color: #C5C6C7;
+}
+
+.exp_container h2 {
+  color: #C5C6C7;
+}
+
+.proj {
+  margin 0 auto;
+  font-size: 40px;
+  color: #66FCF1;
+  padding-left: 50px;
+  width: 100vw;
+}
+
+@media screen and (min-width: 1200px) {
+  .proj {
+    padding-left: 23vw;
+  }
+}
+
+.proj_container {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 0px;
+}
+
+.proj_container h2 {
+  color: #66FCF1;
+}
+
+.skill_container {
+  padding-left: 50px;
+}
+
+.skill_container h2 {
+  color: #66FCF1;
+  padding-left: 50px;
+}
+
+.skill_container ul {
+  font-size: 20px;
+  color: #C5C6C7;
+  padding-left: 70px;
+}
+
+
+
+
